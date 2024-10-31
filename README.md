@@ -13,7 +13,7 @@
 - 出力：`bunny_raycast.txt`
 - 作成コマンド
 ```
-./report_a bunny.obj 64 64 > bunny_raycast.txt
+./実行ファイル bunny.obj 64 64 > bunny_raycast.txt
 ```
 - メッシュ : 孤立頂点を削除した Stanford Bunny（頂点数34834, 面数69451）
 - 実行時間 : 12.7626 秒
